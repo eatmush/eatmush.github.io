@@ -1,0 +1,44 @@
+/* *************TAG SELECTORS**************/
+
+body {
+    /* background-color: #393E46; */
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    /* font-size: 50px; */
+    height: 100%;
+    margin: 0;
+    min-height: 100vh;
+    overflow: hidden;
+    padding: 0;
+}
+
+h2{
+  margin-bottom: 12px;
+}
+
+p{
+  line-height: 1.4;
+  margin-bottom: 8px;
+}
+
+/**************CLASS SELECTORS**************/
+
+.container-fluid{
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 25px;
+  }
+
+  .fa-brands{
+    color: black;
+    font-size: 2rem;
+    margin-top: 4px;
+  }
+
+  .fa-brands:hover{
+    color: grey;
+  }
+
+
+/**************ID SELECTORS************* */
