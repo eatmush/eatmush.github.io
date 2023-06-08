@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(231, 239, 255);
+}
+
+body {
+    /* background-color: #393E46; */
+    color: rgb(96, 96, 96);
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+}
