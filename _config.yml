@@ -8,8 +8,8 @@ author:
 description: >
   Olá! Eu sou o Matheus. Estou desenvolvendo meu próprio site usando jekyll =)
 
-include:
-  - imagens
+# include:
+#  - imagens
 
 # Build settings
 
