@@ -6,7 +6,7 @@ published: true
 excerpt: "Diferentemente da métrica Visualizações, que é a soma dos eventos page_view e screen_view, a métrica Sessões não é a simples contagem do evento session_start."
 ---
 
-![Google Analytics 4 (GA4) logo](/imagens/Logo_Google_Analytics_1920x1080-1024x576.webp)
+![Google Analytics 4 (GA4) logo](/imagens/Logo_Google_Analytics_02_1920x1080-1024x576.webp)
 
 Diferentemente da métrica **Visualizações**, que é a soma dos eventos `page_view` e `screen_view`, a métrica **Sessões** não é a simples contagem do evento `session_start` como podemos ser induzidos a pensar.
 
