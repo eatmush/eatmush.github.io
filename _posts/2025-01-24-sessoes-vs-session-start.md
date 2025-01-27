@@ -19,7 +19,7 @@ A métrica **Sessões** é, na verdade, uma **contagem distinta** de todos os ID
 
 #### Por que Sessões nem sempre bate com session_start?
 
-Dependendo da análise que você está fazendo, os valores de **Sessões** e a contagem de **`session_start`** podem ser diferentes.
+Dependendo da análise que você está fazendo, os valores de **Sessões** e a contagem de `session_start` podem ser diferentes.
 
 Por exemplo, se você estiver fazendo uma análise usando a dimensão **Local da página**, o valor da métrica **Sessões** provavelmente será maior quando comparada com a contagem do evento `session_start` (olhando para uma mesma página), pois nem toda sessão que passou por aquela página necessariamente fez um disparo desse evento.
 
