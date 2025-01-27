@@ -6,8 +6,6 @@ published: true
 excerpt: "Diferentemente da métrica Visualizações, que é a soma dos eventos page_view e screen_view, a métrica Sessões não é a simples contagem do evento session_start."
 ---
 
-### GA4: Sessões vs. session_start
-
 Diferentemente da métrica **Visualizações**, que é a soma dos eventos `page_view` e `screen_view`, a métrica **Sessões** não é a simples contagem do evento `session_start` como podemos ser induzidos a pensar.
 
 #### O que é a métrica Sessões?
