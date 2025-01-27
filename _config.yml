@@ -8,9 +8,6 @@ author:
 description: >
   Olá! Eu sou o Matheus. Estou desenvolvendo meu próprio site usando jekyll =)
 
-# include:
-#  - imagens
-
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
